@@ -33,7 +33,7 @@ This platform provides real-time alerts, safety guidelines, emergency contacts, 
 
 ### Database
 
-* (Add your DB here – MongoDB / PostgreSQL / MySQL)
+*  MongoDB 
 
 ---
 
