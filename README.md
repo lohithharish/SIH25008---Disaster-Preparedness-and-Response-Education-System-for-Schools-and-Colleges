@@ -24,6 +24,7 @@ This platform provides real-time alerts, safety guidelines, emergency contacts, 
 * React.js / JavaScript
 * HTML5
 * CSS3
+* Tailwind
 
 ### Backend (Server)
 
